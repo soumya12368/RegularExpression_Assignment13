@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\obj\Debug\RegularExpression_Assignment13.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\obj\Debug\RegularExpression_Assignment13.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\bin\Debug\RegularExpression_Assignment13.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\bin\Debug\RegularExpression_Assignment13.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\bin\Debug\RegularExpression_Assignment13.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\obj\Debug\RegularExpression_Assignment13.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day8\RegularExpression_Assignment13\RegularExpression_Assignment13\obj\Debug\RegularExpression_Assignment13.pdb
